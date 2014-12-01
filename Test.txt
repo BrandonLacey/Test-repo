@@ -1,2 +1,0 @@
-This is me setting up a test file for the github repository.
-Let's test out the GUI.
